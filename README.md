@@ -53,13 +53,6 @@ A modern, feature-rich, and highly customizable loading screen for FiveM servers
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📊 Stats
-
-![GitHub stars](https://img.shields.io/github/stars/OmiJod/moon-loadingscreen?style=social)
-![GitHub forks](https://img.shields.io/github/forks/OmiJod/moon-loadingscreen?style=social)
-![GitHub issues](https://img.shields.io/github/issues/OmiJod/moon-loadingscreen)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/OmiJod/moon-loadingscreen)
-
 ---
 
 **Made with ❤️ for the FiveM community**
